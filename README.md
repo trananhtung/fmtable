@@ -1,8 +1,8 @@
 # fmtable
 
 <!-- ALL-CONTRIBUTORS-BADGE:START --><!-- ALL-CONTRIBUTORS-BADGE:END -->
-[![npm version](https://img.shields.io/npm/v/fmtable.svg)](https://www.npmjs.com/package/fmtable)
-[![npm downloads](https://img.shields.io/npm/dm/fmtable.svg)](https://www.npmjs.com/package/fmtable)
+[![npm version](https://img.shields.io/npm/v/@billdaddy/fmtable.svg)](https://www.npmjs.com/package/@billdaddy/fmtable)
+[![npm downloads](https://img.shields.io/npm/dm/@billdaddy/fmtable.svg)](https://www.npmjs.com/package/@billdaddy/fmtable)
 [![CI](https://img.shields.io/github/actions/workflow/status/trananhtung/fmtable/ci.yml?branch=main)](https://github.com/trananhtung/fmtable/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -34,13 +34,13 @@ Inspired by Python's [`tabulate`](https://github.com/astanin/python-tabulate) an
 ## Install
 
 ```bash
-npm install fmtable
+npm install @billdaddy/fmtable
 ```
 
 ## Usage
 
 ```ts
-import { fmtable } from "fmtable";
+import { fmtable } from "@billdaddy/fmtable";
 
 const table = fmtable(
   [

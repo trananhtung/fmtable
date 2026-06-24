@@ -1,5 +1,5 @@
 {
-  "name": "fmtable",
+  "name": "@billdaddy/fmtable",
   "version": "0.1.0",
   "description": "Zero-dependency ASCII/Unicode table formatter — plain, grid, rounded, pipe/Markdown, and minimal styles, per-column alignment, auto-width.",
   "keywords": [
